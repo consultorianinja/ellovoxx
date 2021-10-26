@@ -36,7 +36,7 @@
       ]
     },
     "path": "@PROJECT_PATH@",
-    "name": "Site-10-26_1451",
+    "name": "Ellovoxx",
     "versionFirst": "5.4.1",
     "siteFonts": [
       {
@@ -63,14 +63,43 @@
     "imageResize": true,
     "uniqCompNum": 19,
     "versionPublish": "5.4.1",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "chatbutton": {
+      "phone": "+12345678901",
+      "message": "",
+      "size": "65px",
+      "backgroundColor": "#e5ddd5",
+      "position": "left",
+      "popupMessage": "Hi!👋\n\nType a message here. It will go straight to our phone! 🔥\n\nMobirise Team",
+      "showPopup": true,
+      "showOnIE": true,
+      "autoOpenTimeout": 5,
+      "headerColor": "#39847a",
+      "headerTitle": "👋 Chat with us on WhatsApp!",
+      "placeholder": "Type here",
+      "zIndex": 10,
+      "enabled": true
+    },
+    "favicon": false,
+    "mbrsiteDomain": "qdqotrtbxh",
+    "canonical-url": false,
+    "cssOptimize": false,
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false,
+    "pwa-switcher": false,
+    "site_lang": "pt",
+    "publishChangesOnly": false
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "Ellovoxx - Telefonia Coorporativa",
+        "meta_descr": "Uma empresa inovadora com ampla experiência na gestão, suporte e venda de produtos e serviços relacionados a telefonia das empresas no Brasil, preservamos a união das gerações, desenvolvemos habilidades para lidar com as novas tecnologias preservando as boas práticas comerciais.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
